@@ -47,34 +47,34 @@
                 </constraints>
                 <properties>
                   <focusPainted value="false"/>
-                  <text value="Action2"/>
+                  <text value="Delete"/>
                 </properties>
               </component>
-              <component id="b584e" class="javax.swing.JButton" binding="action3Button" default-binding="true">
+              <component id="b584e" class="javax.swing.JButton" binding="getButton" default-binding="true">
                 <constraints>
                   <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
                   <focusPainted value="false"/>
-                  <text value="Action3"/>
+                  <text value="Get"/>
                 </properties>
               </component>
-              <component id="ff07c" class="javax.swing.JButton" binding="action4Button" default-binding="true">
+              <component id="ff07c" class="javax.swing.JButton" binding="containsButton" default-binding="true">
                 <constraints>
                   <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
                   <focusPainted value="false"/>
-                  <text value="Action4"/>
+                  <text value="Contains"/>
                 </properties>
               </component>
-              <component id="6ba08" class="javax.swing.JButton" binding="action5Button" default-binding="true">
+              <component id="6ba08" class="javax.swing.JButton" binding="sizeButton" default-binding="true">
                 <constraints>
                   <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                 </constraints>
                 <properties>
                   <focusPainted value="false"/>
-                  <text value="Action5"/>
+                  <text value="Size"/>
                 </properties>
               </component>
               <component id="dab68" class="javax.swing.JButton" binding="addButton" default-binding="true">
@@ -83,7 +83,7 @@
                 </constraints>
                 <properties>
                   <focusPainted value="false"/>
-                  <text value="Action1"/>
+                  <text value="Add"/>
                 </properties>
               </component>
             </children>

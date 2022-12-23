@@ -1,17 +1,16 @@
 import javax.swing.*;
-import java.util.ArrayList;
 
 public class SampleForm {
     private JPanel mainForm;
     private JPanel actionsContainer;
     private JLabel actionLabel;
     private JLabel outputLabel;
-    private JButton addButton;
+    private JButton action1Button;
     private JButton deleteButton;
-    private JButton getButton;
+    private JButton action3Button;
     private JTextArea output;
-    private JButton containsButton;
-    private JButton sizeButton;
+    private JButton action4Button;
+    private JButton action5Button;
     private JLabel title;
     private JPanel actionDiv;
     private JPanel outputDiv;
